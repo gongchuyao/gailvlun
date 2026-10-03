@@ -1,0 +1,214 @@
+{
+  "note": "源资料已上传。超过 3,000,000 字节的文件按有序 .partNNNofMMM 分片保存；可按 parts 字段拼接还原。render_pages、question_crops、render_before 等可再生成的中间图片未上传。",
+  "chunk_bytes": 3000000,
+  "files": [
+    {
+      "path": "概率论作业截图 L1-L8.docx",
+      "bytes": 16411811,
+      "parts": [
+        "概率论作业截图 L1-L8.docx.part001of006",
+        "概率论作业截图 L1-L8.docx.part002of006",
+        "概率论作业截图 L1-L8.docx.part003of006",
+        "概率论作业截图 L1-L8.docx.part004of006",
+        "概率论作业截图 L1-L8.docx.part005of006",
+        "概率论作业截图 L1-L8.docx.part006of006"
+      ]
+    },
+    {
+      "path": "概率论作业逐题截图 L1-L8 修正版.docx",
+      "bytes": 6547904,
+      "parts": [
+        "概率论作业逐题截图 L1-L8 修正版.docx.part001of003",
+        "概率论作业逐题截图 L1-L8 修正版.docx.part002of003",
+        "概率论作业逐题截图 L1-L8 修正版.docx.part003of003"
+      ]
+    },
+    {
+      "path": "概率论作业逐题截图 L1-L8.docx",
+      "bytes": 6606726,
+      "parts": [
+        "概率论作业逐题截图 L1-L8.docx.part001of003",
+        "概率论作业逐题截图 L1-L8.docx.part002of003",
+        "概率论作业逐题截图 L1-L8.docx.part003of003"
+      ]
+    },
+    {
+      "path": "新建 DOCX 文档.docx",
+      "bytes": 6021919,
+      "parts": [
+        "新建 DOCX 文档.docx.part001of003",
+        "新建 DOCX 文档.docx.part002of003",
+        "新建 DOCX 文档.docx.part003of003"
+      ]
+    },
+    {
+      "path": "A First Course in Probability 9th Edition.pdf",
+      "bytes": 49713864,
+      "parts": [
+        "A First Course in Probability 9th Edition.pdf.part001of017",
+        "A First Course in Probability 9th Edition.pdf.part002of017",
+        "A First Course in Probability 9th Edition.pdf.part003of017",
+        "A First Course in Probability 9th Edition.pdf.part004of017",
+        "A First Course in Probability 9th Edition.pdf.part005of017",
+        "A First Course in Probability 9th Edition.pdf.part006of017",
+        "A First Course in Probability 9th Edition.pdf.part007of017",
+        "A First Course in Probability 9th Edition.pdf.part008of017",
+        "A First Course in Probability 9th Edition.pdf.part009of017",
+        "A First Course in Probability 9th Edition.pdf.part010of017",
+        "A First Course in Probability 9th Edition.pdf.part011of017",
+        "A First Course in Probability 9th Edition.pdf.part012of017",
+        "A First Course in Probability 9th Edition.pdf.part013of017",
+        "A First Course in Probability 9th Edition.pdf.part014of017",
+        "A First Course in Probability 9th Edition.pdf.part015of017",
+        "A First Course in Probability 9th Edition.pdf.part016of017",
+        "A First Course in Probability 9th Edition.pdf.part017of017"
+      ]
+    },
+    {
+      "path": "lecture 1-Combinatorial Analysis.pptx",
+      "bytes": 1469267,
+      "parts": [
+        "lecture 1-Combinatorial Analysis.pptx"
+      ]
+    },
+    {
+      "path": "lecture 2-Axioms of Probability.pptx",
+      "bytes": 1820254,
+      "parts": [
+        "lecture 2-Axioms of Probability.pptx"
+      ]
+    },
+    {
+      "path": "lecture 3-Conditional Probability and Independence.pptx",
+      "bytes": 2396523,
+      "parts": [
+        "lecture 3-Conditional Probability and Independence.pptx"
+      ]
+    },
+    {
+      "path": "lecture 4- Random Variables.pptx",
+      "bytes": 3742332,
+      "parts": [
+        "lecture 4- Random Variables.pptx.part001of002",
+        "lecture 4- Random Variables.pptx.part002of002"
+      ]
+    },
+    {
+      "path": "lecture 5-Continuous Random Variables.pptx",
+      "bytes": 3594101,
+      "parts": [
+        "lecture 5-Continuous Random Variables.pptx.part001of002",
+        "lecture 5-Continuous Random Variables.pptx.part002of002"
+      ]
+    },
+    {
+      "path": "lecture 6-Jointly Distributed Random Variables.pptx",
+      "bytes": 3546604,
+      "parts": [
+        "lecture 6-Jointly Distributed Random Variables.pptx.part001of002",
+        "lecture 6-Jointly Distributed Random Variables.pptx.part002of002"
+      ]
+    },
+    {
+      "path": "lecture 7 Properties of Expectation.pptx",
+      "bytes": 2485724,
+      "parts": [
+        "lecture 7 Properties of Expectation.pptx"
+      ]
+    },
+    {
+      "path": "lecture 8-Limit Theorems.pptx",
+      "bytes": 1249926,
+      "parts": [
+        "lecture 8-Limit Theorems.pptx"
+      ]
+    },
+    {
+      "path": "make_question_crops.py",
+      "bytes": 5115,
+      "parts": [
+        "make_question_crops.py"
+      ]
+    },
+    {
+      "path": "README.md",
+      "bytes": 50,
+      "parts": [
+        "README.md"
+      ]
+    },
+    {
+      "path": "高等代数\\2_MatricesandLinearEquations.pdf",
+      "bytes": 265074,
+      "parts": [
+        "高等代数\\2_MatricesandLinearEquations.pdf"
+      ]
+    },
+    {
+      "path": "高等代数\\3_VectorSpaces.pdf",
+      "bytes": 220141,
+      "parts": [
+        "高等代数\\3_VectorSpaces.pdf"
+      ]
+    },
+    {
+      "path": "高等代数\\4_LinearMappings.pdf",
+      "bytes": 248437,
+      "parts": [
+        "高等代数\\4_LinearMappings.pdf"
+      ]
+    },
+    {
+      "path": "高等代数\\高代1作业.docx",
+      "bytes": 13106,
+      "parts": [
+        "高等代数\\高代1作业.docx"
+      ]
+    },
+    {
+      "path": "高等代数\\高代1作业逐题截图.docx",
+      "bytes": 717880,
+      "parts": [
+        "高等代数\\高代1作业逐题截图.docx"
+      ]
+    },
+    {
+      "path": "高等代数\\Introdunction to linear algebra.pdf",
+      "bytes": 10891849,
+      "parts": [
+        "高等代数\\Introdunction to linear algebra.pdf.part001of004",
+        "高等代数\\Introdunction to linear algebra.pdf.part002of004",
+        "高等代数\\Introdunction to linear algebra.pdf.part003of004",
+        "高等代数\\Introdunction to linear algebra.pdf.part004of004"
+      ]
+    },
+    {
+      "path": "高等代数\\Linear Algebra 1-1.pptx",
+      "bytes": 1021796,
+      "parts": [
+        "高等代数\\Linear Algebra 1-1.pptx"
+      ]
+    },
+    {
+      "path": "高等代数\\Linear Algebra 1-2.pptx",
+      "bytes": 1176235,
+      "parts": [
+        "高等代数\\Linear Algebra 1-2.pptx"
+      ]
+    },
+    {
+      "path": "高等代数\\Linear Algebra 1-3.pptx",
+      "bytes": 1079514,
+      "parts": [
+        "高等代数\\Linear Algebra 1-3.pptx"
+      ]
+    },
+    {
+      "path": "高等代数\\make_algebra_homework_crops.py",
+      "bytes": 5031,
+      "parts": [
+        "高等代数\\make_algebra_homework_crops.py"
+      ]
+    }
+  ]
+}
